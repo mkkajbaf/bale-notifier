@@ -1,1 +1,0 @@
-web: gunicorn bale_order_notifier:app

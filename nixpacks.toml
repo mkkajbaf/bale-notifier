@@ -1,0 +1,2 @@
+[start]
+cmd = "gunicorn bale_order_notifier:app"
